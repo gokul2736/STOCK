@@ -1,2 +1,22 @@
 # STOCK
-QP
+
+
+
+
+
+<h1>08-12-2025</h1>
+<img width="889" height="1280" alt="image" src="https://github.com/user-attachments/assets/28e7061b-3634-4091-8ecc-1c994f2713ca" />
+<img width="854" height="1280" alt="image" src="https://github.com/user-attachments/assets/5843f45c-4807-45e2-8835-9520eb1906dd" />
+
+<h1>10-12-2025</h1>
+<img width="942" height="1280" alt="image" src="https://github.com/user-attachments/assets/3d335c86-da65-4ebf-aacf-64d6706024a1" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/9f3d5785-6957-4edd-8dfc-7aa946aa76f8" />
+
+<h1>12-12-2025</h1>
+<img width="915" height="1280" alt="image" src="https://github.com/user-attachments/assets/ef47687f-431d-49ad-8a10-83f3f2f3bc6d" />
+<img width="916" height="1280" alt="image" src="https://github.com/user-attachments/assets/db2dfc73-a435-4f9e-b47d-8d336f689d99" />
+
+
+<h1>K's-22-12-2025</h1>
+<img width="833" height="1148" alt="image" src="https://github.com/user-attachments/assets/2ce0aa94-43a2-423f-aaea-f789fb2353df" />
+<img width="821" height="1186" alt="image" src="https://github.com/user-attachments/assets/be17a411-efc0-4a2c-abce-44838b8fd482" />
